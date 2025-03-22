@@ -1,0 +1,24 @@
+.DS_Store
+.idea
+
+# Config for DDEV
+.ddev
+!.ddev
+.ddev/*
+!.ddev/config.yaml
+!.ddev/docker-compose.external_links.yaml
+
+./Build/INSTALLATION_RUNNING
+
+**/node_modules/**
+
+test/playwright/test-results/
+test/playwright/playwright-report/
+test/playwright/blob-report/
+test/playwright/playwright/.cache/
+test/playwright/playwright/tests-examples/
+test/playwright/package-lock.json
+
+**ts-snapshots**
+**.auth.**
+**/.env
