@@ -78,6 +78,8 @@ Start the test GUI:
 
     ddev playwright test --ui
 
+It should open a new browser window with the Playwright test GUI. (testdomain.ddev.site::8444)
+
 ---
 
 Start the test recorder (codegen):
