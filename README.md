@@ -10,6 +10,8 @@ This project shows the use of the Playwright Testing API to test Webapplications
 
 1.2.0: General test structure
 
+1.3.0: Implemented visual comparison test
+
 ## Installation
 
 via DDEV

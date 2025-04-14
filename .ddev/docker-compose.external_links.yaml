@@ -1,4 +1,4 @@
 services:
   web:
     external_links:
-      - "ddev-router:autodudes-blog.ddev.site"
+      - "ddev-router:passionweb-typo3-codebreak.ddev.site"
