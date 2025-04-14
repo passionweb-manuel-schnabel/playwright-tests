@@ -6,7 +6,9 @@ This project shows the use of the Playwright Testing API to test Webapplications
 
 1.0.0: Installation
 
-1.1.0: Initial Configuration
+1.1.0: Initial configuration
+
+1.2.0: General test structure
 
 ## Installation
 
