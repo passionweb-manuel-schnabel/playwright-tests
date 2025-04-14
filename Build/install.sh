@@ -33,10 +33,6 @@ if test -f "./Build/INSTALLATION_RUNNING";
     exit
 fi
 
-# project vars
-printf 'Get a new DDEV GMK-Reloaded System.\n'
-
-
 # blocking other scripts while intall process
 touch ./Build/INSTALLATION_RUNNING
 
