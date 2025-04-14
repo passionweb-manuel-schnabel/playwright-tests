@@ -12,6 +12,8 @@ This project shows the use of the Playwright Testing API to test Webapplications
 
 1.3.0: Implemented visual comparison test
 
+1.4.0: Implemented click test
+
 ## Installation
 
 via DDEV
