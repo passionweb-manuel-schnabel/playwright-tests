@@ -14,6 +14,18 @@ via DDEV
 
     ddev start
 
+You will be asked a few questions during the installation:
+
+"Need to install Playwright, OK to proceed?" -> Answer: yes
+"Do you want to use TypeScript or JavaScript?" -> Answer: TypeScript
+"Where to put your end-to-end tests?" -> Answer: tests
+"Add a GitHub workflow?" -> Answer: no
+"Install Playwright browsers?" -> Answer: yes
+"Install Playwright operating system dependencies?" -> Answer: yes
+After installing Playwright, you will be asked:
+
+"/var/www/html/test/playwright/playwright.config.ts already exists. Override it?" -> Answer: no
+
 ## Requirements
 
 This example uses no 3rd party libraries.
