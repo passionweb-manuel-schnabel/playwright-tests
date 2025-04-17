@@ -3,7 +3,7 @@ import {test, expect} from '@playwright/test';
 
 const baseUrl = 'https://passionweb-typo3-codebreak.ddev.site/';
 
-test('Screen Comparison', async ({page}) => {
+test('Click Test', async ({page}) => {
     // max time, how long the test can run. Depends on the amount of URLs and pagespeed.
     test.setTimeout(20000);
     try {

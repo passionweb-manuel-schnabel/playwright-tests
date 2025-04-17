@@ -16,6 +16,12 @@ This project shows the use of the Playwright Testing API to test Webapplications
 
 1.5.0: Showcase clicktest generation with codegen
 
+1.6.0: Implemented API Testing
+
+1.7.0: Showcase debugging practices
+
+1.8.0: In-depth view on locators
+
 ## Installation
 
 via DDEV
